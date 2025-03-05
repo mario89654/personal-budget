@@ -1,4 +1,4 @@
-# personal-budget# Personal Budget
+# Personal Budget
 
 ## Descripción
 
